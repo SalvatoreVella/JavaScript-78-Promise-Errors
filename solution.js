@@ -1,4 +1,4 @@
-const isLogged = true;
+const isLogged = false;
 
 function login(data) {
   return new Promise((resolve, reject) => {
